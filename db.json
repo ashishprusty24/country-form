@@ -1,0 +1,76 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "India"
+    },
+    {
+      "id": 2,
+      "name": "India"
+    },
+    {
+      "id": 3,
+      "name": "India"
+    },
+    {
+      "id": 4,
+      "name": "India"
+    },
+    {
+      "name": "cname",
+      "id": 5
+    },
+    {
+      "name": "austrelia",
+      "id": 6
+    },
+    {
+      "name": "nezland",
+      "id": 7
+    },
+    {
+      "name": "china",
+      "id": 8
+    },
+    {
+      "name": "china3",
+      "id": 9
+    },
+    {
+      "name": "china4",
+      "id": 10
+    },
+    {
+      "name": "china5",
+      "id": 11
+    },
+    {
+      "name": "china6",
+      "id": 12
+    },
+    {
+      "name": "ghf",
+      "id": 13
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "cityname": "dhenkanal",
+      "population": 100,
+      "country": "India"
+    },
+    {
+      "cityname": "fdg",
+      "population": "gfd",
+      "country": "India",
+      "id": 2
+    },
+    {
+      "cityname": "fghf",
+      "population": "gfh",
+      "country": "India",
+      "id": 3
+    }
+  ]
+}
